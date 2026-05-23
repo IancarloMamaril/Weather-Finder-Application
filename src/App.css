@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background-color: #87ceeb;
+
+  display: flex;
+  justify-content: center;
+}
